@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Sonar </h1>
 
 # 💫 About Me:
-🌱 I'm currently working on MERN Stack <br>💯A passionate Fullstack Developer from India<br>📨 Connect with me: chiragsonar1718@gmail.com <br>💻 Working @ ContractSPAN
+🌱 I'm currently working on MERN Stack <br>💯A passionate Fullstack Developer from India<br>📨 Connect with me: chirag17.dev@gmail.com <br>💻 Working @ ContractSPAN
 
 
 ## 🌐 Socials:
